@@ -9,6 +9,18 @@ yarn
 yarn start
 ```
 
+#### Testing
+
+```
+node docs/secure-client.js
+```
+
+#### Self-contained example
+
+```
+node docs/ssl.js
+```
+
 #### License
 
 [MIT](LICENSE.md)
